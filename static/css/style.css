@@ -1,0 +1,21 @@
+.body{
+    margin-left: 100px;
+    
+}
+/* .bg-dark{
+    background-color: #757678;
+} */
+.mt-50{
+    margin-top: 50px;
+}
+select{
+    width: 1000px;
+    padding: 5px;
+
+}
+input{
+    width: 1000px;
+}
+button{
+    width: 1000px;
+}
